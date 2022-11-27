@@ -20,7 +20,6 @@
                 <p class="text-sm text-grey-500">{product.description}</p>
             </div>
         </div>
-
     </div>
     </a>
 </div>

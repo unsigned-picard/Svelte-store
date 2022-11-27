@@ -21,6 +21,6 @@
 
     </nav>
 </div>
-<div class="flex justify-end">
+<div class="flex justify-end mb-16">
     <input class="rounded-md bg-gray-100 mr-32 h-8" type="text" placeholder="  Rechercher">
 </div>

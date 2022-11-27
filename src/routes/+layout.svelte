@@ -3,7 +3,7 @@
     import Header from '../components/header.svelte'
 </script>
 
+<div class="mx-64 justify-center">
 <Header></Header>
-<div class="m-8 flex justify-center">
 <slot />
 </div>
